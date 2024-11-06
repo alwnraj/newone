@@ -14,4 +14,4 @@ This is a page about »My New Post«.
 
 this is an attempt at pasting an image
 
-![image](/gptfumble.PNG)
+![image](/static/images/gptfumble.PNG)
